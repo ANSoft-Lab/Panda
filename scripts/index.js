@@ -8,4 +8,4 @@ let s = document.querySelector('body');
 b.addEventListener('click', function (){
 		s.classList.toggle('active')
 	})
-  
+  window.location.replace('http://a.com')
